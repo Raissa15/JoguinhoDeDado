@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Joguinho de Dados</string>
+    <string name="roll_label">Rodar</string>
+</resources>
